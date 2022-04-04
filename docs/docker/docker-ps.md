@@ -1,4 +1,6 @@
-# Get container ID with its name
+# docker ps
+
+## Get container ID with its name
 
 ```bash
 docker ps -q -f 'name=<container-name>'
