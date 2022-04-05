@@ -1,6 +1,6 @@
 # Docker Compose
 
-# docker-compose
+## docker-compose
 
 * By default, Compose reads two files, a `docker-compose.yml` and an optional `docker-compose.override.yml` file. By convention, the `docker-compose.yml` contains your base configuration. The override file, as its name implies, can contain configuration overrides for existing services or entirely new services.
     * For **single-value** options like `image`, `command` or `mem_limit`, the new value replaces the old value.
