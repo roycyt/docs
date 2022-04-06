@@ -3,11 +3,11 @@
 ## List dangling images
 
 ```bash
-docker images -f dangling=true
+docker image ls -f dangling=true
 ```
 
 ## Remove dangling images
 
 ```bash
-docker rmi $(docker images -q -f dangling=true)
+docker image rm $(docker image ls -f dangling=true -q)
 ```
