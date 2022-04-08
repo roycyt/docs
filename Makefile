@@ -16,4 +16,4 @@ sync: compile
 
 .PHONY: serve
 serve: sync
-	mkdocs serve -a 0.0.0.0:8000
+	@venv/bin/mkdocs serve -a 0.0.0.0:8000
