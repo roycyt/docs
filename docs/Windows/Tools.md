@@ -1,5 +1,13 @@
 # Tools
 
+## 系統
+
+* `netstat -ano | findStr "8080"`
+* 遠端桌面連線: `mstsc.exe`
+* 資源監視器 (Resource Monitor): `resmon.exe`
+
+## 應用
+
 * Everything
 * Insomnia
 * Postman
