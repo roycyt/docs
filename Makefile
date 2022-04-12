@@ -1,3 +1,5 @@
+SERVER_PORT := 8888
+
 .DEFAULT_GOAL := serve
 
 .PHONY: venv
@@ -16,4 +18,4 @@ sync: compile
 
 .PHONY: serve
 serve: sync
-	@venv/bin/mkdocs serve -a 0.0.0.0:8000
+	@venv/bin/mkdocs serve -a 0.0.0.0:$(SERVER_PORT)
