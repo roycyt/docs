@@ -12,5 +12,5 @@ jobs:
         with:
           python-version: 3.x
       - run: python -m ensurepip -U
-      - run: pip install -U mkdocs mkdocs-windmill
+      - run: pip install -U mkdocs mkdocs-material
       - run: mkdocs gh-deploy --force

@@ -13,9 +13,14 @@ importlib-metadata==4.11.3
     #   markdown
     #   mkdocs
 jinja2==3.1.1
-    # via mkdocs
+    # via
+    #   mkdocs
+    #   mkdocs-material
 markdown==3.3.6
-    # via mkdocs
+    # via
+    #   mkdocs
+    #   mkdocs-material
+    #   pymdown-extensions
 markupsafe==2.1.1
     # via jinja2
 mergedeep==1.3.4
@@ -23,11 +28,17 @@ mergedeep==1.3.4
 mkdocs==1.3.0
     # via
     #   -r requirements.in
-    #   mkdocs-windmill
-mkdocs-windmill==1.0.5
+    #   mkdocs-material
+mkdocs-material==8.2.13
     # via -r requirements.in
+mkdocs-material-extensions==1.0.3
+    # via mkdocs-material
 packaging==21.3
     # via mkdocs
+pygments==2.12.0
+    # via mkdocs-material
+pymdown-extensions==9.4
+    # via mkdocs-material
 pyparsing==3.0.7
     # via packaging
 python-dateutil==2.8.2
