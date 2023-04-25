@@ -18,3 +18,9 @@ The username in the clone command:
 * Must not be an empty string.
 
 Remember this if you set up an automation pipeline that depends on authentication.
+
+---
+
+```
+$ git clone https://roy:glpat-tmr8iEr1YEsjGaqf-smv@gitlab.com/roy.chen/foo.git
+```
