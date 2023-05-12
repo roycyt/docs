@@ -45,6 +45,20 @@ $ sudo vim /etc/default/duplicati
 DAEMON_OPTS="--webservice-interface=any --webservice-port=8200 --portable-mode"
 ```
 
+# Duplicati.Server.exe Options
+
+--webservice-sslcertificatefile
+
+The certificate and key file in PKCS #12 format the webserver use for SSL. Only RSA/DSA keys are supported.
+
+--webservice-sslcertificatepassword
+
+The password for decryption of certificate PKCS #12 file.
+
+--portable-mode
+
+Activates portable mode where the database is placed below the program executable.
+
 # 啟動
 
 ```
