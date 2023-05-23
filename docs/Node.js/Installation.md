@@ -1,0 +1,2 @@
+- [Downloading and installing Node.js and npm | npm Docs](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+	- We strongly recommend using a **Node version manager** like [nvm](:/dc8304abea0c46269b8985b3c0ae7ea7) to install Node.js and npm.
