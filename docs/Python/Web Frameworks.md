@@ -1,0 +1,7 @@
+- [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
+- Pyramid
+	- Used by [hypothesis/h](https://github.com/hypothesis/h): Annotate with anyone, anywhere.
+- Flask
+- Django
+- FastAPI
+- Sanic

@@ -1,0 +1,6 @@
+- ipython
+- bpython
+- [GitHub - PyCQA/prospector](https://github.com/PyCQA/prospector): Inspects Python source files and provides information about type and location of classes, methods etc
+- [GitHub - charliermarsh/ruff](https://github.com/charliermarsh/ruff): An extremely fast Python linter, written in Rust.
+	- [The Ruff python linter is insanely good : Python](https://www.reddit.com/r/Python/comments/11syxd0/the_ruff_python_linter_is_insanely_good/)
+- [Python Code Quality: Tools & Best Practices – Real Python](https://realpython.com/python-code-quality/)
