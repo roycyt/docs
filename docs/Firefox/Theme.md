@@ -1,0 +1,1 @@
+* [Arctic Nord Theme](https://addons.mozilla.org/zh-TW/firefox/addon/arctic-nord-theme/)
