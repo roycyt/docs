@@ -1,5 +1,9 @@
 # journalctl
 
+```
+sudo journalctl -xeu foo.service
+```
+
 ## Boot messages
 
 ```bash
