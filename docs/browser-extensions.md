@@ -1,5 +1,17 @@
 # Browser Extensions
 
+* [Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb)
+* [Clear Browsing Data](https://chromewebstore.google.com/detail/clear-browsing-data/bjilljlpencdcpihofiobpnfgcakfdbe)
+  * https://github.com/dessant/clear-browsing-data
+* [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+* [Tabliss - A Beautiful New Tab](https://chromewebstore.google.com/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp)
+* [Supatabs - OneTab on Steroids](https://chromewebstore.google.com/detail/supatabs-onetab-on-steroi/icbcnjlaegndjabnjbaeihnnmidbfigk)
+* [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+* [Raindrop.io](https://chromewebstore.google.com/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien)
+* [Omnivore](https://chromewebstore.google.com/detail/omnivore/blkggjdmcfjdbmmmlfcpplkchpeaiiab)
+* [EPUBReader](https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb)
+* [GoFullPage - Full Page Screen Capture](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
+
 ## 滑鼠手勢
 
 * [simpleGestures - Chrome 線上應用程式商店](https://chromewebstore.google.com/detail/simplegestures/flfminafiamnggnldfpilnfnmbgmiegn)
