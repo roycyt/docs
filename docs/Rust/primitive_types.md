@@ -19,10 +19,9 @@ let _ = 100_000__000___i32;
 ## Floats
 
 * `f32`, `f64` (default)
-
-```
-let my_float = 5.;
-```
+  ```
+  let my_float = 5.;
+  ```
 
 ## Characters
 
