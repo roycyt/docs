@@ -2,6 +2,8 @@
 
 ## git svn clone
 
+* It accepts all arguments that the `init` and `fetch` commands accept; with the exception of `--fetch-all` and `--parent`.
+* --preserve-empty-dirs
 * 若過程卡住或中斷，執行 `git svn fetch` 以繼續 clone
 
 ## git svn fetch
